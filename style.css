@@ -290,15 +290,8 @@ top: -550px;
 
 
  
- .r{
-    
-    /* margin-left: 60px;
-    position: relative;
-    top: -440px;
-    margin-left: 90px; */
-    
-
- }
+ 
+ 
  .be{
     /*  */
     margin-left: -40px;
@@ -315,5 +308,24 @@ display: block;
 margin-left: 600px;
 position: relative;
 top: -499px; 
+
+}
+.ap{
+   position: relative;
+   top: -350px;
+   background-color: black;
+   border: none; 
+   height: 2px; 
+   margin: 20px 0
+
+}
+.aq{
+   position: relative;
+   top: -650px;
+   background-color: black;
+   border: none; 
+   height: 2px; 
+   margin: 20px 0
+
 
 }
